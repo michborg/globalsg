@@ -2078,8 +2078,8 @@ body {
   }
 }
 .cid-rlgrVGv1IE {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rlgrVGv1IE h4 {
@@ -2092,6 +2092,7 @@ body {
   margin-bottom: 0;
   text-align: left;
   padding-top: 1.5rem;
+  padding-top: 2rem;
 }
 .cid-rlgrVGv1IE .mbr-section-btn {
   padding-top: 2.5rem;
@@ -2110,4 +2111,7 @@ body {
   .cid-rlgrVGv1IE .card:not(.last-child) {
     padding-bottom: 2rem;
   }
+}
+.cid-rlgrVGv1IE H2 {
+  text-align: center;
 }
